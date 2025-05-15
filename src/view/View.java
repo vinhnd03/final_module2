@@ -94,4 +94,6 @@ public class View {
         System.out.print("Lựa chọn: ");
         return Integer.parseInt(scanner.nextLine());
     }
+
+    public static void test() {}
 }
